@@ -1,0 +1,55 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 700px;
+ height: 700px;
+ background-color: rgb(226, 245, 186);
+ margin: 0px auto;
+ padding: 10px;
+ text-align: center;
+}
+
+.allele{
+  display: block;
+  padding: 10px;
+}
+
+#header{
+  height: 80px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.headImage{
+  height: 50px;
+  width: 80px;
+  display: inline-block;
+}
+
+#bckcolor{
+  background-color: white;
+}
+
+#heading{
+  display: inline-block;
+  margin: 5px;
+}
+
+#red, #blue{
+  height: 100px;
+  width: 100px;
+  border: 3px solid black;
+}
+
+#red{
+  background-color: rgb(237, 128, 128);
+  padding: 8px;
+}
+
+#blue{
+  background-color: lightblue;
+  padding: 8px;
+
+}
